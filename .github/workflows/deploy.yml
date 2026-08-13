@@ -18,3 +18,4 @@ jobs:
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
           projectName: qr-generator
           directory: .
+          workersCompatibilityDate: "2024-01-01"
